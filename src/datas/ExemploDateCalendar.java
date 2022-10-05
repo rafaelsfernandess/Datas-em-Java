@@ -18,7 +18,7 @@ public class ExemploDateCalendar {
 		//edc.exibirDataAtualUmInternacional();
 		//edc.exibirDataAtualDois();
 		//edc.exibirDataAtualTres();
-		edc.stringParaData();
+		//edc.stringParaData();
 		//edc.diferencaDuasDatas();
 		//edc.setarDataHora();
 		
